@@ -141,6 +141,10 @@ iframe{
   background-size: cover;
   background-repeat: no-repeat;
 }
+.ninth-wrapper{
+  height:1083px;
+  width:100%;
+}
 footer{
   height:70px;
   width:100%;
