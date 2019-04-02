@@ -79,7 +79,7 @@ table {
   padding-top:250px;
   padding-left:210px;
   height:170px;
-  width:800px;
+  max-width:70%;
 }
 .second-wrapper{
   width:100%;
