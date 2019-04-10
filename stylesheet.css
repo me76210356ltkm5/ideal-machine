@@ -71,6 +71,7 @@ table {
   padding: 20px 25px;
   font-size: 12px;
   transition: all 0.5s;
+  outline:none;
 }
 
 .header-top a:hover {
@@ -312,7 +313,7 @@ h1 {
 }
 
 .recruit-wrapper {
-  margin: 2% 25%;
+  padding: 2% 25%;
   line-height: 120%;
   font-size: 90%;
 }
@@ -358,6 +359,7 @@ h1 {
 }
 
 .submit {
+  margin-bottom:15%;
   outline: none;
   border: 2px solid rgb(112, 20, 20);
   border-radius: 10px;
