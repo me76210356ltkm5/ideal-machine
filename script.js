@@ -32,11 +32,13 @@ $(function() {
     }
     if (scrollY > seventhWrapper-1 && scrollY <= ninthWrapper-1) {
       accessTag.addClass('tag').removeClass('Select-tag'), reservationTag.addClass('Select-tag').removeClass('tag');
+      homeTag.addClass('tag').removeClass('Select-tag');
     } else {
       reservationTag.addClass('tag').removeClass('Select-tag');
     }
     if (scrollY > ninthWrapper-1) {
       reservationTag.addClass('tag').removeClass('Select-tag'), recruitTag.addClass('Select-tag').removeClass('tag');
+      homeTag.addClass('tag').removeClass('Select-tag');
     } else {
       recruitTag.addClass('tag').removeClass('Select-tag');
     }
