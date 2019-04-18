@@ -8,6 +8,7 @@ $(function() {
   var accessTag = $(".Access-tag");
   var reservationTag = $(".Reservation-tag");
   var recruitTag = $(".Recruit-tag");
+  var fourthWrapper=$('.fourth-wrapper').offset().top;
   var sixthWrapper = $(".sixth-wrapper").offset().top;
   var seventhWrapper = $(".seventh-wrapper").offset().top;
   var ninthWrapper = $(".ninth-wrapper").offset().top;
@@ -53,6 +54,18 @@ $(function() {
     $("html,body").animate({scrollTop:seventhWrapper},{duration:1000});
   })
   recruitTag.click(function(){
+    $("html,body").animate({scrollTop:ninthWrapper},{duration:1000});
+  })
+  $('#access').click(function(){
+    $("html,body").animate({scrollTop:sixthWrapper},{duration:1000});
+  })
+  $('#greetings').click(function(){
+    $("html,body").animate({scrollTop:fourthWrapper},{duration:1000});
+  })
+  $('#reservetion').click(function(){
+    $("html,body").animate({scrollTop:seventhWrapper},{duration:1000});
+  })
+  $('#recruit').click(function(){
     $("html,body").animate({scrollTop:ninthWrapper},{duration:1000});
   })
 
