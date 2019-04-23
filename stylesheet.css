@@ -91,7 +91,7 @@ background-color: rgba(255, 255, 255, 0.6);
 .first-wrapper {
   width: 100%;
   height: 1000px;
-  background-image: url("https://static.wixstatic.com/media/403c3a_21e6b94a18cb49eb95e8a8c329b06b4b~mv2_d_2500_1663_s_2.jpg/v1/fill/w_1899,h_1250,al_c,q_90,usm_0.66_1.00_0.01/403c3a_21e6b94a18cb49eb95e8a8c329b06b4b~mv2_d_2500_1663_s_2.webp");
+  background-image:url("top.png");
   background-size: cover;
   background-position: center;
   text-align: center;
@@ -131,7 +131,7 @@ background-color: rgba(255, 255, 255, 0.6);
 
 .InsideTheStore-wrapper {
   width: 40%;
-  background-image: url("https://static.wixstatic.com/media/403c3a_3b52b97556ff471f8c112d292fddd1f2~mv2.jpg/v1/fill/w_842,h_665,al_c,q_85/403c3a_3b52b97556ff471f8c112d292fddd1f2~mv2.webp");
+  background-image: url("in-store.png");
   background-size: cover;
   background-position: center;
 }
@@ -143,21 +143,21 @@ background-color: rgba(255, 255, 255, 0.6);
 
 .staff {
   width: 20%;
-  background-image: url("https://static.wixstatic.com/media/403c3a_93b8e4bfbbe04713a34cb4422f266b1e~mv2_d_2500_1663_s_2.jpg/v1/fill/w_380,h_394,al_c,q_80,usm_0.66_1.00_0.01/403c3a_93b8e4bfbbe04713a34cb4422f266b1e~mv2_d_2500_1663_s_2.webp");
+  background-image: url("staff.png");
   background-size: cover;
   background-position: center;
 }
 
 .menu {
   width: 30%;
-  background-image: url("https://static.wixstatic.com/media/403c3a_038dc9ea5bee4f0d93b99ace2d8bac85~mv2.jpg/v1/fill/w_572,h_394,al_c,lg_1,q_80/403c3a_038dc9ea5bee4f0d93b99ace2d8bac85~mv2.webp");
+  background-image: url("menu.png");
   background-size: cover;
   background-position: center;
 }
 
 .party-seat {
   width: 30%;
-  background-image: url("https://static.wixstatic.com/media/403c3a_a71ec2b8d4724f998a68afae00380ea4~mv2.jpg/v1/fill/w_395,h_438,al_c,q_80,usm_0.66_1.00_0.01/403c3a_a71ec2b8d4724f998a68afae00380ea4~mv2.webp");
+  background-image: url("party-sheet.png");
   background-size: cover;
   background-position: center;
 }
@@ -190,7 +190,7 @@ background-color: rgba(255, 255, 255, 0.6);
 
 .fourth-wrapper {
   width: 100%;
-  background-image: url("https://static.wixstatic.com/media/403c3a_345d48461a6c4bb4a96801edb47b3f92~mv2_d_2000_1331_s_2.jpg/v1/fill/w_1899,h_956,al_c,q_85,usm_0.66_1.00_0.01/403c3a_345d48461a6c4bb4a96801edb47b3f92~mv2_d_2000_1331_s_2.webp");
+  background-image: url("orner.png");
   background-size: cover;
   background-position: center;
   z-index: 2;
@@ -239,7 +239,7 @@ iframe {
 
 .InsideTheStore {
   width: 50%;
-  background-image: url("https://static.wixstatic.com/media/403c3a_3b52b97556ff471f8c112d292fddd1f2~mv2.jpg/v1/fill/w_539,h_481,al_c,q_80,usm_0.66_1.00_0.01/403c3a_3b52b97556ff471f8c112d292fddd1f2~mv2.webp");
+  background-image: url("in-store.png");
   background-size: cover;
   background-position: center;
 }
@@ -292,7 +292,7 @@ h1 {
 
 .woman {
   width: 50%;
-  background-image: url("https://static.wixstatic.com/media/403c3a_81f846c7425c4e6a8df8ef09b22bd4bc~mv2_d_2000_1331_s_2.jpg/v1/fill/w_950,h_675,al_t,q_85,usm_0.66_1.00_0.01/403c3a_81f846c7425c4e6a8df8ef09b22bd4bc~mv2_d_2000_1331_s_2.webp");
+  background-image: url("girl.png");
   background-size: cover;
   background-position: center;
 }
@@ -300,7 +300,7 @@ h1 {
 .eight-wrapper {
   height: 650px;
   width: 100%;
-  background-image: url("https://static.wixstatic.com/media/403c3a_18a2264a38b148eebe9fc04fbd1bfc41~mv2_d_2500_1663_s_2.jpg/v1/fill/w_1310,h_844,al_c,q_85,usm_0.66_1.00_0.01/403c3a_18a2264a38b148eebe9fc04fbd1bfc41~mv2_d_2500_1663_s_2.webp");
+  background-image: url("weiter.png");
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
